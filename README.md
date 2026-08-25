@@ -12,10 +12,10 @@ This work is under review for publication in _Magnetic Resonance in Medicine_.
 
 This repository provides example code to visualize in vivo data acquired with the single-sided NMR device from an animal study, as well as the code to simulate the B0 characteristics of the single-sided NMR relaxometry device.
 
-For the in vivo analysis code, the pytnt package is required. Install it using:
-pip install pytnt or visit https://pypi.org/project/pytnt/
-
 For the simulation code, run "Fig4_Simulations_singleSided_magnet_TIM.py". Make sure to install all dependencies with their specified versions using "requirements.txt". Note that this code requires the magpylib package to run (more information: https://magpylib.readthedocs.io/en/stable/). The code was tested on Python 3.11.
+
+For the in vivo analysis code, run "Fig8_Invivo_singleSided_magnet_TIM.ipynb". The pytnt package is required. Install it using:
+pip install pytnt or visit https://pypi.org/project/pytnt/
 
 ## Contact
 
