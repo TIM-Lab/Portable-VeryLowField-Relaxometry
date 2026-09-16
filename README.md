@@ -19,7 +19,6 @@ pip install pytnt or visit https://pypi.org/project/pytnt/
 
 ## Contact
 
-Arian M. Sohi (amollaja@purdue.edu)
-Hazar Benan Unal (hunal@purdue.edu)
-Behzad Sharif (bsharif@purdue.edu & bsharif@iu.edu)
-
+Arian M. Sohi (amollaja@purdue.edu) \
+Hazar Benan Unal (hunal@purdue.edu) \
+Behzad Sharif (bsharif@purdue.edu & bsharif@iu.edu). 
